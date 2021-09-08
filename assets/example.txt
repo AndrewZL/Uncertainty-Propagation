@@ -1,0 +1,11 @@
+\begin{equation}
+R = x \sin{\left(\theta \right)}
+\end{equation}
+\begin{align}
+\delta_{R} &= \sqrt{\left(\frac{\partial_{R}}{\partial_{x}}\right)^2 (\delta_{x})^2 + \left(\frac{\partial_{R}}{\partial_{theta}}\right)^2 (\delta_{theta})^2 } \\
+&= \sqrt{\left(\delta_{x} \sin{\left(\theta \right)}\right)^{2} + \left(\delta_{\theta} x \cos{\left(\theta \right)}\right)^{2}} \\
+&= \sqrt{\left(0.342020143325669 \cdot 0.07\right)^{2} + \left(0.939692620785908 \cdot 11.54 \cdot 0.0174532925199433\right)^{2}} \\
+&= 0.19077267678966783 \\
+\therefore R &= (3.9\pm.2)
+\end{align}
+
